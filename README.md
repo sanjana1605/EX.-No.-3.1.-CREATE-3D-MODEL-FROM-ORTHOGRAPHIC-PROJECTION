@@ -1,5 +1,5 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:26/10/2023
 
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -40,7 +40,8 @@ To create a 3D model from given orthographic projection.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
-## OUTPUT:
+## OUTPUT:![Screenshot (5)](https://github.com/sanjana1605/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/155608340/ec70c8f0-db9d-4118-8cd2-ad8759ab5df9)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
